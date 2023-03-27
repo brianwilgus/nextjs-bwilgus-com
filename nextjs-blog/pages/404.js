@@ -1,8 +1,6 @@
-import Layout, {siteTitle} from "../components/layout";
+import Layout from "../components/layout";
 import Head from "next/head";
 import utilStyles from "../styles/utils.module.css";
-import Link from "next/link";
-import Date from "../components/date";
 
 const pageTitle = "404 page not found";
 
